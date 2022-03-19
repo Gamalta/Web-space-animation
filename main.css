@@ -1,0 +1,28 @@
+body{
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+     
+
+}
+
+canvas {
+  display: flex;
+}
+
+.container {
+  position: absolute;
+  display: flex;
+  background-color: white;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 30%;
+  width: 30%;
+}
